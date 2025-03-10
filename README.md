@@ -56,7 +56,7 @@ npm install
   ```
 
 #### 4. Folder Structure
-- `cypress/integration/` – Contains the test cases
+- `cypress/e2e/` – Contains the test cases
 - `cypress/support/` – Custom commands and reusable functions
 - `cypress/fixtures/` – Test data files
 - `cypress/plugins/` – Custom plugins (if required)
