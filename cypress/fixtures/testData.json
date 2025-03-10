@@ -1,0 +1,10 @@
+{
+    "validEmail": "test@kennect.io",
+    "validPassword": "Qwerty@1234",
+    "invalidEmail": "wrong@user.com",
+    "invalidPassword": "wrongpass",
+    "patientName": "suman raj",
+    "patientAge": "23",
+    "testType": "Blood Sugar Test"
+  }
+  
