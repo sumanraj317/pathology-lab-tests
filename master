@@ -1,0 +1,2 @@
+Pathology Lab Management Web Application - Test Automation
+This project automates the testing of a Pathology Lab Management web application using Cypress. It covers key functionalities such as user authentication, the home page, cost calculator, and patient test management. The test suite ensures the reliability of core features through well-structured test cases, automation scripts, and detailed documentation for easy execution.
